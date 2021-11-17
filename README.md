@@ -53,12 +53,14 @@ Use the above to answer the following:
 > Which model has a lower loss?
 
 >The model with the closing data had a lower loss than the model with the fng data. 
+
 > Which model tracks the actual values better over time?
 
 >The model with the closing data tracked the actual values better over time than the model with the fng values. 
 
 > Which window size works best for the model?
-The window size that I found worked best was a window of 1 day.
+
+> The window size that I found worked best was a window of 1 day.
 
 - - -
 
